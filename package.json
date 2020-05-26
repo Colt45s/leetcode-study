@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Colt45s/leetcode-study.git",
+  "author": "Colt45s",
+  "license": "MIT",
+  "scripts": {
+    "run1": "node ./1.two-sum/index.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.5"
+  }
+}

@@ -5,9 +5,7 @@
   "repository": "https://github.com/Colt45s/leetcode-study.git",
   "author": "Colt45s",
   "license": "MIT",
-  "scripts": {
-    "run1": "node ./1.two-sum/index.js"
-  },
+  "scripts": {},
   "devDependencies": {
     "eslint": "^7.1.0",
     "eslint-config-prettier": "^6.11.0",

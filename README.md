@@ -6,7 +6,7 @@
 
 Linked List Cycle II	Medium
 
-Remove Duplicates from Sorted List	Easy
+- [x] Remove Duplicates from Sorted List	Easy
 
 Remove Duplicates from Sorted List II	Medium
 

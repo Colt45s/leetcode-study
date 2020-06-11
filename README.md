@@ -10,7 +10,7 @@ Remove Duplicates from Sorted List	Easy
 
 Remove Duplicates from Sorted List II	Medium
 
-Add Two Numbers	Medium
+- [x] Add Two Numbers	Medium
 	
 ## Stack	
 
@@ -28,7 +28,7 @@ Find K Pairs with Smallest Sums	Medium
 	
 ## HashMap	
 
-Two Sum	Easy
+- [x] Two Sum	Easy
 
 Group Anagrams	Medium
 

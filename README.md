@@ -2,7 +2,7 @@
 
 ## LinkedList	
 
-Linked List Cycle Easy
+- [x] Linked List Cycle Easy
 
 Linked List Cycle II	Medium
 
